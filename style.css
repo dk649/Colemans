@@ -1,16 +1,18 @@
 body{
 
-    background: url(image1.jpg) no-repeat center center fixed;  
+    background: url(image1.jpg);  
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    
 
 
 
 }
 
-
    
-
-
 
 div{
 
