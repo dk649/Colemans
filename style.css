@@ -1,0 +1,45 @@
+body{
+
+    background: url(image1.jpg) no-repeat center center fixed;  
+    background-size: cover;
+
+
+
+}
+
+
+   
+
+
+
+div{
+
+    top: 100px;
+    position: relative;
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+
+    font-family: 'Ibarra Real Nova', serif;
+
+    font-family: 'Dancing Script', cursive;
+}
+
+div#d1{
+
+    top: 200px;
+
+}
+
+.btn-danger{
+
+    border-radius: 300px;
+    font-weight: 700;
+}
+
+
+.btn-xl{
+
+
+    padding: 2rem 3rem;
+}
